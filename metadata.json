@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Sistemas Secuenciales Programables",
+  "description": "Aplicación web educativa interactiva sobre Sistemas Secuenciales Programables y Autómatas (PLC) para el CFGS de Automatización y Robótica Industrial.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
